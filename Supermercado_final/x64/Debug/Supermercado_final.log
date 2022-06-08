@@ -1,0 +1,44 @@
+﻿  Cliente.cpp
+  Compra.cpp
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(102,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(99,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(101,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(117,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(114,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(116,13): warning C4101: 'fila': variable local sin referencia
+  Empleado.cpp
+  Marca.cpp
+  Producto.cpp
+  Proveedor.cpp
+  Puesto.cpp
+  Supermercado_final.cpp
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(116,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(113,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(115,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(131,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(130,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(158,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(155,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(157,14): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(102,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(99,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(101,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(117,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(114,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(116,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(22,21): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(397,36): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(402,40): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(21,29): warning C4101: 'eleccionventa': variable local sin referencia
+  Venta.cpp
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(116,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(113,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(115,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(131,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(130,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(158,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(155,7): warning C4101: 'q_estado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(157,14): warning C4101: 'fila': variable local sin referencia
+  Generando código...
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(396): error C4700: se utilizó la variable local 'generotecla' sin inicializar

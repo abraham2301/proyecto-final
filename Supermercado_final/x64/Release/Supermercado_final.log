@@ -1,0 +1,26 @@
+﻿  Supermercado_final.cpp
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(198,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(197,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(230,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(229,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Venta.h(269,9): warning C4101: 'crear': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(110,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(109,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(141,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Compra.h(140,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(24,21): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(23,29): warning C4101: 'eleccionventa': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(770,17): warning C4101: 'idclient': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(769,17): warning C4101: 'clienteeleccion': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(842,17): warning C4101: 'nofactura': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(908,17): warning C4101: 'idvent': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(958,13): warning C4101: 'eleccioncompra': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(968,17): warning C4101: 'idproveedor': variable local sin referencia
+C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\Supermercado_final\Supermercado_final.cpp(1011,26): warning C4101: 'modificar': variable local sin referencia
+  Generando código
+  1 of 494 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Supermercado_final.vcxproj -> C:\Users\Usuario\Desktop\proyecto final\Supermercado_final\x64\Release\Supermercado_final.exe

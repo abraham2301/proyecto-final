@@ -1,0 +1,11 @@
+--------- Factura final ---------
+Fecha: 2022-06-07
+No_Factura: 22
+
+Nit: cf
+Cliente: consumidor final
+--------- Productos ----------
+Producto: Aderezo Ranch 15.00
+Producto: Galleta de chocolate Chips 21.00
+Total a pagar: 36
+Gracias por su compra vuelva pronto
